@@ -1,2 +1,1 @@
-# Sample
-Sample code
+Java sample code
